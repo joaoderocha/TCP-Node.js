@@ -1,0 +1,17 @@
+{
+  "name": "tcpnodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "latest",
+    "readline-sync": "^1.4.10",
+    "json-2-csv": "latest"
+  }
+}
